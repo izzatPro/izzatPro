@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **JavaScript / React**
 
-- 📫 How to reach me **superizzat564@gmail.com**
+- 📫 How to reach me **https://t.me/MySoul1145**
 
 - ⚡ Fun fact **I spend more money on programming than I earn on programming**
 
