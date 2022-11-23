@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)]
 <h1 align="center">Hi 👋, I'm Izzatillo</h1>
 <h3 align="center">I am an inspired Strong Juniour Frontend Developer with the best user experience from Tashkent</h3>
 <img align="right" alt="Coding" width="400" src="https://luxe-host.ru/wp-content/uploads/0/3/d/03d4d7a242536318606e210f0589576f.gif" />
