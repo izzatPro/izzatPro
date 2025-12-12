@@ -1,29 +1,66 @@
 [![MasterHead](https://res.cloudinary.com/practicaldev/image/fetch/s--a67XH0QN--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/i/xndmxrfhliweofif9jty.png)](https://github.com/izzatPro)
+
 <h1 align="center">Hi 👋, I'm Izzatillo</h1>
-<h3 align="center">I am an inspired Strong Junior Frontend Developer with the best user experience from Tashkent</h3>
-<img align="right" alt="Coding" width="400" src="https://luxe-host.ru/wp-content/uploads/0/3/d/03d4d7a242536318606e210f0589576f.gif" />
+<h3 align="center">Golang Backend Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=izzatpro&label=Profile%20views&color=0e75b6&style=flat" alt="izzatpro" /> </p>
+<img align="right" alt="Coding" width="380" src="https://luxe-host.ru/wp-content/uploads/0/3/d/03d4d7a242536318606e210f0589576f.gif" />
 
-- 🌱 I’m currently learning **JavaScript / React / Firebase**
-
-- 👨‍💻 All of my projects are available at [https://izzatillo.uz/](https://izzatillo.uz/)
-
-- 💬 Ask me about **JavaScript / React**
-
-- 📫 How to reach me **https://t.me/MySoul1145**
-
-- ⚡ Fun fact **I spend more money on programming than I earn on programming**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
+  <img src="https://komarev.com/ghpvc/?username=izzatpro&label=Profile%20views&color=0e75b6&style=flat" alt="izzatpro" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://gulpjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://pugjs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=izzatpro&show_icons=true&locale=en&layout=compact" alt="izzatpro" /></p>
+### 👨‍💻 About me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=izzatpro&show_icons=true&locale=en" alt="izzatpro" /></p>
+Backend developer with a focus on **Golang** and **REST API** development.  
+Experienced in building and maintaining backend services for **business-oriented systems** (CRM, internal services), working with SQL databases and production environments.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=izzatpro&" alt="izzatpro" /></p>
+- 🧠 Main stack: **Go, REST API, SQL**
+- 🏗 Experience with **business domains and internal systems**
+- ⚙️ Focus on **stability, correctness, and maintainable code**
+
+---
+
+### 🛠 Tech Stack
+
+**Backend**
+- Golang
+- REST API (net/http)
+- SQL (MySQL / MariaDB / PostgreSQL)
+- JWT Authentication & Authorization
+
+**Infrastructure & Tools**
+- Git
+- Docker (basic usage)
+- Postman
+- Linux
+
+---
+
+### 📂 Projects
+Some of my backend-related work and experiments are available here:  
+👉 **https://izzatillo.uz/**
+
+---
+
+### 📫 Contact
+- Telegram: **https://t.me/MySoul1145**
+- Email: **superizzat1999@gmail.com**
+
+---
+
+### 📊 GitHub Stats
+
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=izzatpro&show_icons=true&locale=en&layout=compact" alt="izzatpro" />
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=izzatpro&show_icons=true&locale=en" alt="izzatpro" />
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=izzatpro" alt="izzatpro" />
+</p>
+
