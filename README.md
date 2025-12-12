@@ -43,16 +43,13 @@ Some of my backend-related work and experiments are available here:
 ---
 
 ### 📫 Contact
-- Telegram: **https://t.me/MySoul1145**
-- Email: **superizzat1999@gmail.com**
+- Telegram: @MySoul1133
+- Email: superizzat564@gmail.com
 
 ---
 
 ### 📊 GitHub Stats
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=izzatpro&show_icons=true&locale=en&layout=compact" alt="izzatpro" />
-</p>
 
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=izzatpro&show_icons=true&locale=en" alt="izzatpro" />
