@@ -1,9 +1,7 @@
-[![MasterHead](https://res.cloudinary.com/practicaldev/image/fetch/s--a67XH0QN--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/i/xndmxrfhliweofif9jty.png)](https://github.com/izzatPro)
 
 <h1 align="center">Hi 👋, I'm Izzatillo</h1>
 <h3 align="center">Golang Backend Developer</h3>
 
-<img align="right" alt="Coding" width="380" src="https://luxe-host.ru/wp-content/uploads/0/3/d/03d4d7a242536318606e210f0589576f.gif" />
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=izzatpro&label=Profile%20views&color=0e75b6&style=flat" alt="izzatpro" />
