@@ -30,7 +30,9 @@ Experienced in building and maintaining backend services for **business-oriented
 
 **Infrastructure & Tools**
 - Git
-- Docker (basic usage)
+- Docker
+- RabbitMQ
+- Redis
 - Postman
 - Linux
 
