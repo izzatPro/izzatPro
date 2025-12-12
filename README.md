@@ -36,10 +36,6 @@ Experienced in building and maintaining backend services for **business-oriented
 
 ---
 
-### 📂 Projects
-Some of my backend-related work and experiments are available here:  
-👉 **https://izzatillo.uz/**
-
 ---
 
 ### 📫 Contact
