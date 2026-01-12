@@ -46,14 +46,4 @@ Experienced in building and maintaining backend services for **business-oriented
 
 ---
 
-### 📊 GitHub Stats
-
-
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=izzatpro&show_icons=true&locale=en" alt="izzatpro" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=izzatpro" alt="izzatpro" />
-</p>
 
